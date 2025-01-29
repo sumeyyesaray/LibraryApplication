@@ -1,20 +1,38 @@
-## **📚 Library Management System**  
-This project creates a library management system. Users can add books, delete books, search for books by ISBN or name, and lend books to students.  
+# 📚 Library Management System
 
-### **📌 Features**  
-✅ Add new books  
-✅ Delete books  
-✅ Search for books by ISBN  
-✅ Search for books by name  
-✅ Assign books to students  
-✅ Return books  
-✅ List all books in the library  
-✅ View books borrowed by students  
+This is a simple library management system where users can add, delete, search for books, and check out books to students.
 
----
+## 🚀 Features
 
-## **📂 File Contents**  
-- **books.txt** → Stores book information  
-- **students.txt** → Stores student information  
-- **student_books.txt** → Stores borrowed book records  
-- **main.py (This code)** → The main code for the library management system  
+- List all books  
+- List checked-out books  
+- Add & delete books  
+- Search by ISBN or name  
+- Check out books to students  
+
+## 📂 Files
+
+- **books.txt** → Stores book data  
+- **students.txt** → Stores student info  
+- **checked_out_books.txt** → Records borrowed books  
+- **main.py** → Main script  
+
+## 🛠 How to Run
+
+Make sure you have Python installed, then run:
+
+```sh
+python main.py
+📌 Menu Options
+sql
+Kopyala
+Düzenle
+1) List all books
+2) List checked-out books
+3) Add a book
+4) Delete a book
+5) Search by ISBN
+6) Search by name
+7) Check out a book
+8) Exit
+Just enter the number of your choice!
