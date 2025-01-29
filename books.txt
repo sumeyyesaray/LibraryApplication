@@ -1,0 +1,20 @@
+1456894537  , Don Kişot , Miguel de Cervantes , T
+2548904685	, Romeo ve Juliet , William Shakespeare , T
+3569823556	, Sefiller , Victor Hugo , T	
+4125685256	, Suç ve Ceza , Fyodor Dostoevsky , T
+5458902578	, Karamazov Kardeşler , Fyodor Dostoevsky , T	
+1863457950	, Jane Eyre	, Charlotte Bronte , T	                        
+1453054297	, Madame Bovary , Gustave Flaubert , T	
+8015796478	, Kırmızı ve Siyah , Stendhal , T	
+4521539682	, Great Expectations , Charles Dickens , T	
+1045792453	, Yeraltından Notlar , Fyodor Dostoevsky , T	
+1238965745	, Güneşte ve Gölgelerde	, Lev Tolstoy , T	
+1297236540	, Gulliver'in Gezileri , Jonathan Swift , T	
+1394236544	, Wuthering Heights	, Emily Bronte , T	
+1465201983 , The Adventures of Huckleberry Finn , Mark Twain , T	
+1590364782	, Ana Karenina	, Lev Tolstoy , T	
+1657014820	, The Picture of Dorian Gray , Oscar Wilde , T	
+1712548624	, Les Misérables, Victor Hugo , T	
+1839750534	, Crime and Punishment , Fyodor Dostoevsky , T	
+1942455198	, The Brothers Karamazov , Fyodor Dostoevsky , T	
+2037924613	, One Hundred Years of Solitude	, Gabriel Garcia Marquez , T
